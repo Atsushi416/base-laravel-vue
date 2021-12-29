@@ -12,9 +12,17 @@ $ docker-compose up -d
 ```
 
 2. ブラウザでアクセス
+
+- 下記URLでアクセスできれば成功
+
 ```
 http://localhost:8080/
 ```
+
+3. Vueを使用するための準備
+
+    1. Nodeをインストール
+    2. ```src/app```で```$ npm install```
 
 
 # dockerコマンド
